@@ -26,3 +26,10 @@
   ✅ CSS – Styling and layout
 
   ✅ JavaScript – Time logic and live updates
+
+
+![Digital Clock Screenshot](screenshot.png)
+
+git add .
+git commit -m "Add screenshot to README"
+git push
